@@ -21,7 +21,7 @@
  
 * [下载 Windows 桌面绿色版32位 V2.26.1](https://github.com/listen1/listen1_desktop/releases/download/v2.26.1/listen1_2.26.1_win_ia32.7z)
 
-## lsten1简介
+## listen1简介
 
 最后更新：2022-09-10 
 
