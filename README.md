@@ -1,5 +1,81 @@
  
 # Harvard Middle School
+
+ [Chrome Web Store插件页面](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)
+
+ [Firefox插件页面](https://addons.mozilla.org/zh-CN/firefox/addon/listen1/)
+
+ [Microsoft Edge插件页面](https://microsoftedge.microsoft.com/addons/detail/hneiglcmpeedblkmbndhfbeahcpjojjg)
+
+ [下载 Chrome 插件版 V2.26.1](https://github.com/listen1/listen1_chrome_extension/archive/v2.26.1.zip)
+
+ [下载安卓版 V0.8.2](https://github.com/listen1/listen1_mobile/releases/download/v0.8.2/listen1_0.8.2.apk.zip)
+
+ [下载 Windows 桌面版安装包 V2.26.1](https://github.com/listen1/listen1_desktop/releases/download/v2.26.1/listen1_2.26.1_win.exe)
+ 
+ [下载 Mac Universal 桌面版 V2.26.1](https://github.com/listen1/listen1_desktop/releases/download/v2.26.1/listen1_2.26.1_mac_universal.dmg)
+ 
+ [下载 Linux 64位桌面版 V2.26.1](https://github.com/listen1/listen1_desktop/releases/download/v2.26.1/listen1_2.26.1_linux_x86_64.AppImage)
+ 
+ [下载 Windows 桌面绿色版64位 V2.26.1](https://github.com/listen1/listen1_desktop/releases/download/v2.26.1/listen1_2.26.1_win_x64.7z)
+ 
+[下载 Windows 桌面绿色版32位 V2.26.1](https://github.com/listen1/listen1_desktop/releases/download/v2.26.1/listen1_2.26.1_win_ia32.7z)
+
+## lsten1简介
+
+最后更新：2022-09-10 
+
+Listen 1可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
+
+![R6bTXkY](https://user-images.githubusercontent.com/91320006/190297501-0e2d4e5c-1059-4aa3-8205-47e2e28b8422.gif)
+
+还支持歌单功能，你可以方便的播放，收藏和创建自己的歌单。
+
+# 安装
+
+## Chrome 插件版
+1.下载Chrome插件版压缩包，并解压缩
+
+2.打开 Chrome 扩展页面，勾选右上角「开发者模式]
+
+3.选择「加载已解压的扩展程序…」，选择刚刚解压缩的文件夹
+
+4.开始使用
+
+## Firefox插件版
+
+1.下载Firefox插件版，并解压缩
+
+2.打开 about:config 页面，xpinstall.signatures.required 设置为 false
+
+3.选择「附加组件」，齿轮图标，选择从文件安装附加组件，选择下载的xpi文件
+
+4.开始使用
+
+## Windows桌面版
+
+1.下载Windows压缩包，根据系统选择32位或64位版本
+
+2.解压缩，运行 Listen1.exe
+
+## Mac桌面版
+
+1.下载并运行dmg，在打开的安装窗口把Listen 1图标拖动到右侧
+
+2.点击Listen 1图标运行
+
+## Linux桌面版
+
+1.根据系统选择32位或64位版本，下载AppImage安装包
+
+2.将安装包放到合适的位置，右键安装包>属性>权限>赋予执行权限，或在命令行使用chmod a+x赋予执行权限，然后就可直接双击运行软件，弹出是否将软件集成到程序菜单中的窗口，同意或不同意都可运行软件，建议同意
+
+3.安装完成后开始使用
+
+
+
+
+
 ## listen1 网页版安装 (Chrome Extension) V2.26.1
 
 （最后更新于 2022 年 09 月 10 日）
